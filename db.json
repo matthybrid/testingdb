@@ -4,11 +4,17 @@
         { "id": 2, "firstname": "user2", "lastname": "user2", "social": "1234" },
         { "id": 3, "firstname": "user3", "lastname": "user3", "social": "1234" }
     ],
-    "comments": [
-        { "id": 1, "body": "some comment", "postId": 1 },
-        { "id": 2, "body": "some comment", "postId": 1 }
+    "clients": [
+        { "id": 1, "name": "Client #1", "userId": 1 },
+        { "id": 2, "name": "Client #2", "userId": 1 }
     ],
-        "profile": {
-        "name": "typicode"
-    }
+    "records": [
+        { "id": 1, "name": "record_2019_04_12 #1", "userId": 1 },
+        { "id": 2, "name": "record_2019_04_10 #2", "userId": 1 }
+        { "id": 3, "name": "record_2019_04_15 #3", "userId": 1 }
+        { "id": 4, "name": "record_2019_04_01 #4", "userId": 1 }
+        { "id": 5, "name": "record_2019_04_06 #5", "userId": 1 }
+        { "id": 6, "name": "record_2019_04_16 #6", "userId": 1 }
+        { "id": 7, "name": "record_2019_04_22 #7", "userId": 1 }
+    ]
 }
