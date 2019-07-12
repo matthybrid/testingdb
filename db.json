@@ -2,7 +2,7 @@
     "users": [
         { "id": 1, "firstname": "user1", "lastname": "user1", "social": "1234" },
         { "id": 2, "firstname": "user2", "lastname": "user2", "social": "1234" },
-        { "id": 3, "firstname": "user3", "lastname": "user3", "social": "1234" },
+        { "id": 3, "firstname": "user3", "lastname": "user3", "social": "1234" }
     ],
     "comments": [
         { "id": 1, "body": "some comment", "postId": 1 },
