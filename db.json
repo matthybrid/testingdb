@@ -1,4 +1,4 @@
-[{
+{"db": [{
 	
 	"Category": "Hardware",
 	"Products": [
@@ -68,8 +68,8 @@
 				"SKU": "RR1",
 				"Name": "Recover & Restore",
 				"Price": "249.99",
-				"Discount": ".2"				
+				"Discount": ".2"
 			}
 		]
 	}
-]
+]}
