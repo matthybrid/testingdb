@@ -1,7 +1,7 @@
-{"db": [{
-	
-	"Category": "Hardware",
-	"Products": [
+{
+	"categories": [{	
+		"Category": "Hardware",
+		"Products": [
 			{
 				"SKU": "BX1",
 				"Name": "Ultra Box 1",
