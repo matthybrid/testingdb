@@ -1,58 +1,73 @@
-{
-  "Hardware":{
-    "BX1":{
-      "Name":"Ultra Box 1"
-      ,"Price":"1200.00"
-      ,"Discount":".2"
-      }
-    ,"BX2":{
-      "Name":"Ultra Box 2"
-      ,"Price":"1300.00"
-      ,"Discount":".25"
-      }
-    ,"FBX1":{
-      "Name":"Fast Box 1"
-      ,"Price":"1250.00"
-      ,"Discount":".25"
-      }
-    ,"FBX2":{
-      "Name":"Fast Box 2"
-      ,"Price":"1350.00"
-      ,"Discount":".2"
-      }
-   },
-  "Software":{
-    "CR1":{
-      "Name":"Cloud Ready"
-      ,"Price":"549.99"
-      ,"Discount":".1"
-      }
-    ,"CK1":{
-      "Name":"Cloud Keeper"
-      ,"Price":"349.99"
-      ,"Discount":".25"
-      }
-    ,"CR1":{
-      "Name":"Cloud Restore"
-      ,"Price":"249.99"
-      ,"Discount":".2"
-      }
-   },
-  "Services":{
-    "SR1":{
-      "Name":"Ready State"
-      ,"Price":"149.99"
-      ,"Discount":".1"
-      }
-    ,"MM1":{
-      "Name":"Monthly Maintenance"
-      ,"Price":"99.99"
-      ,"Discount":".25"
-      }
-    ,"RR1":{
-      "Name":"Recover & Restore"
-      ,"Price":"249.99"
-      ,"Discount":".2"
-      }
-   }
-}
+[{
+		"Hardware": [{
+				"BX1": {
+					"Name": "Ultra Box 1",
+					"Price": "1200.00",
+					"Discount": ".2"
+				}
+			},
+			{
+				"BX2": {
+					"Name": "Ultra Box 2",
+					"Price": "1300.00",
+					"Discount": ".25"
+				}
+			},
+			{
+				"FBX1": {
+					"Name": "Fast Box 1",
+					"Price": "1250.00",
+					"Discount": ".25"
+				}
+			},
+			{
+				"FBX2": {
+					"Name": "Fast Box 2",
+					"Price": "1350.00",
+					"Discount": ".2"
+				}
+			}
+		]
+	},
+	{
+		"Software": [{
+				"CR1": {
+					"Name": "Cloud Restore",
+					"Price": "249.99",
+					"Discount": ".2"
+				}
+			},
+			{
+				"CK1": {
+					"Name": "Cloud Keeper",
+					"Price": "349.99",
+					"Discount": ".25"
+				}
+			}
+		]
+	},
+	{
+		"Services": [{
+				"SR1": {
+					"Name": "Ready State",
+					"Price": "149.99",
+					"Discount": ".1"
+				}
+			},
+			{
+				"MM1": {
+					"Name": "Monthly Maintenance",
+					"Price": "99.99",
+					"Discount": ".25"
+				}
+			},
+			{
+				"RR1": {
+					"Name": "Recover & Restore",
+					"Price": "249.99",
+					"Discount": ".2"
+				}
+			}
+		]
+	}
+]
